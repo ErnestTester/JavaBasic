@@ -10,5 +10,10 @@ public class Relational_Operators {
         System.out.println("Ten > Twent=>" + (Ten > Twenty));
         System.out.println("Twenty > Ten=>" + (Twenty> Ten));
         System.out.println("Thirty > Twenty=>" + (Thirty> Twenty));
+
+        System.out.println("<<<GREATHER OR EQUAL TO OPERATOR>>>");
+        System.out.println("Ten > Twent=>" + (Ten >= Twenty));
+        System.out.println("Twenty > Ten=>" + (Twenty>= Ten));
+        System.out.println("Thirty > Twenty=>" + (Thirty>= Twenty));
     }
 }
