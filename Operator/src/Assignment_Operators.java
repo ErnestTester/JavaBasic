@@ -12,5 +12,18 @@ public class Assignment_Operators {
         System.out.println("Value stored in the time variable is : " + time);
         System.out.println("Value stored in the name variable is : " + name);
         System.out.println("Value stored in the isGood variable is : " + isGood);
+
+        System.out.println();
+        System.out.println("****Over witten values****");
+        speed=100;
+        time=distance;
+        name="ForumSQA";
+        isGood=false;
+        System.out.println("Value stored in value is:"+ speed);
+        System.out.println("Value stored in distance is"+ distance);
+        System.out.println("Value stored in time is:"+ time);
+        System.out.println("Value stored in name is:"+ name);
+        System.out.println("Value stored in isGood is:"+isGood);
+
     }
 }
