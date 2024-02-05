@@ -6,8 +6,9 @@ public class Relational_Operators {
         int Twenty=20;
         int Thirty=30;
 
-        System.out.println("GREATHER THAN OPERATOR");
+        System.out.println("<<<GREATHER THAN OPERATOR>>>");
         System.out.println("Ten > Twent=>" + (Ten > Twenty));
         System.out.println("Twenty > Ten=>" + (Twenty> Ten));
+        System.out.println("Thirty > Twenty=>" + (Thirty> Twenty));
     }
 }
