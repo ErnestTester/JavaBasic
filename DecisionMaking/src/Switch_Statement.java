@@ -14,7 +14,7 @@ public class Switch_Statement
         switch(dayOfWeek)
         {
             case 2:
-                System.out.println("Today is Monday");
+                System.out.println("Today is Monday, Show time!");
                 break;
             case 3:
                 System.out.println("Today is Tuesday");
