@@ -4,7 +4,6 @@
     public int findNearZero(int[] aTemp)
     {
         int min = aTemp[0];
-        int abs;
         for (int i = 0; i < aTemp.length; i++) {
 
             if (min >= Math.abs(aTemp[i]))
