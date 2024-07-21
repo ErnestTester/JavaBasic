@@ -9,6 +9,7 @@ public class Array1 {
         //display the size of the array
         System.out.println("Size = " +a.length);
         System.out.println("The code!...");
+        System.out.println("Ernesto Olaez");
         System.out.println("Array elements:");
         for(int i=0;  i<a.length; i++)
         {
